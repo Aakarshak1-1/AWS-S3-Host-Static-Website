@@ -1,0 +1,10 @@
+These are the tasks on AWS from today's session:
+Host a static website (https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html)
+Create an event notification service whenever there is an upload or delete on the S3 bucket (https://docs.aws.amazon.com/AmazonS3/latest/userguide/ways-to-add-notification-config-to-bucket.html)
+@here
+docs.aws.amazon.comdocs.aws.amazon.com
+Hosting a static website using Amazon S3 - Amazon Simple Storage Service
+Host a static website on Amazon S3 by configuring your bucket for website hosting and then uploading your content to the bucket.
+docs.aws.amazon.comdocs.aws.amazon.com
+Walkthrough: Configuring a bucket for notifications (SNS topic or SQS queue) - Amazon Simple Storage Service
+Walk through an example that shows how to configure an Amazon S3 bucket for event notifications using Amazon SNS or Amazon SQS.
